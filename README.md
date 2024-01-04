@@ -6,7 +6,7 @@
 ## Opbygning af Praktik blog
 
 Min praktik blog er bygget op af mapper der repræsenterer hver uge i mit praktikforløb.
-I hver mappe vil der være en start.md fil samt en konklusion.md: 
+I hver mappe vil der være en start.md samt en konklusion.md fil: 
 
 ```sh
 
@@ -15,7 +15,7 @@ praktik
 +-- uge_1
     |
     +-- start.md
-    +-- konklusoon.md
+    +-- konklusion.md
     +-- billeder
         |
         +-- billede.png
