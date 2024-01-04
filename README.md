@@ -27,4 +27,4 @@ praktik
 *konklusion.md* opsummere ugens forløb og viser mine reflektioner over mit fremskridt i forhold til mine læringsmål.
 
 Der vil i begge filer ind i mellem være vedhæftet billeder via en URL som står direkte i teksten.
-Disse billeder kan også finde i ```/billeder ``` mappen under uge_[ugenr] mappen.
+Disse billeder kan også findes i ```/billeder ``` mappen under uge_[ugenr] mappen.
