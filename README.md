@@ -2,8 +2,24 @@
 
 **Dato**: d. 8. Januar - d. 15. Marts
 
-**Læringsmål**: [Gå til læringsmål](#praktikforløbets-læringsmål)
+### Indholdsfortegnesle
+- 📅 [Uge oversigt](#uge-oversigt)
+- 🦴 [Opbygning af praktik blog](#opbygning-af-praktik-blog)
+- 🎯 [Praktikforløbets læringsmål](#praktikforløbets-læringsmål)
 
+
+## Uge oversigt 
+
+- [1. Uge](./uge_1/)
+- [2. Uge](./uge_2/)
+- [3. Uge](./uge_3/)
+- [4. Uge](./uge_4/)
+- [5. Uge](./uge_5/)
+- [6. Uge](./uge_6/)
+- [7. Uge](./uge_7/)
+- [8. Uge](./uge_8/)
+- [9. Uge](./uge_9/)
+- [10. Uge](./uge_10/)
 
 ## Opbygning af Praktik blog
 
