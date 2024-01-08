@@ -44,4 +44,3 @@ Disse billeder kan også finde i **/billeder** mappen under uge_[ugenr] mappen.
 4. Opnå en dybere forståelse af Git som et versionstyringssystem og mestre branch-strategier, merge-konfliktløsning og andre essentielle funktioner som frontend Udvikler.
 
 5. Udvikle kompetencer inden for UX/UI med særligt fokus på brugercentreret design for at skabe intuitive og brugervenlige grænseflader. Formålet er at lede og koordinere designprocessen i et udviklerteam og sikre, at designet effektivt omsættes til kode.
-
