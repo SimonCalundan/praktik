@@ -1,5 +1,6 @@
 
-# Tirsdag d. 9. Januar
+
+# Onsdag d. 10. Januar
 
 ## Spontanlog
 Tirdag d. 9 januar stod på praktikforløbets første rigtige opgaver, nu hvor
